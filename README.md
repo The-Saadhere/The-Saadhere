@@ -1,7 +1,23 @@
-# Saad Kamal
+# Saad Kamal Shaikh
+
+Full Stack Developer focused on building scalable and modern web applications using React, Next.js, Node.js, Express, and TypeScript.
+
+## About Me
+
+I started web development in 2025 and have been consistently building projects and improving my skills in frontend and backend development.
+
+Currently focused on:
+- Full Stack Web Development
+- TypeScript
+- Scalable Backend Architecture
+- Modern UI Development
+- Freelance Development
+
+## Tech Stack
+
 ### Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - TypeScript
 - React
@@ -13,51 +29,41 @@
 - Express.js
 - REST APIs
 
-### Database & Tools
-- MongoDB
+### Tools
 - Git
 - GitHub
+- VS Code
 - Postman
-- Figma
 - Vercel
 
 ## Projects
 
-### E-Commerce Application
-A modern ecommerce application with cart management, product handling, and responsive UI.
+### Ecommerce Application
+Built a full stack ecommerce application with cart management, product handling, and responsive UI.
 
 ### URL Shortener
-A URL shortener application with click tracking and analytics functionality.
+Developed a URL shortener with click tracking and analytics functionality.
 
 ### Portfolio Website
-Personal portfolio focused on clean UI, smooth performance, and modern frontend architecture.
+Modern developer portfolio showcasing projects, skills, and services.
 
-## Current Focus
-
-- Advanced TypeScript
-- Backend scalability
-- Authentication systems
-- Performance optimization
-- Clean component architecture
+Portfolio:
+https://saad-portfolio-gamma.vercel.app/
 
 ## Contact
 
-Email: saadkamaldev@gmail.com
+Email:
+saadkamaldev@gmail.com
 
-Portfolio: [Saad Portfolio](https://saad-portfolio-gamma.vercel.app/)
+LinkedIn:
+https://www.linkedin.com/in/saad-kamal-shaikh-887449398
 
-LinkedIn: www.linkedin.com/in/saad-kamal-shaikh-887449398
+Portfolio:
+https://saad-portfolio-gamma.vercel.app/
 
-## GitHub Stats
+## Goals
 
-```md
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Saadhere&show_icons=true&theme=transparent)
-
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=transparent)
-```
-
-## Contribution Graph
-
-```md
-[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Saadhere&theme=github-compact)
-```
+- Build high quality production-ready applications
+- Grow as a freelance developer
+- Contribute to open source projects
+- Learn advanced system design and backend development
