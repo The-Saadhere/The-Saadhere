@@ -56,7 +56,7 @@ Email:
 saadkamaldev@gmail.com
 
 LinkedIn:
-https://www.linkedin.com/in/saad-kamal-shaikh-887449398
+www.linkedin.com/in/the-saadhere
 
 Portfolio:
 https://saad-portfolio-gamma.vercel.app/
