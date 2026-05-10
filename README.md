@@ -51,13 +51,13 @@ LinkedIn: www.linkedin.com/in/saad-kamal-shaikh-887449398
 ## GitHub Stats
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Saadhere&show_icons=true&theme=transparent)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Saadhere&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=transparent)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=transparent)
 ```
 
 ## Contribution Graph
 
 ```md
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Saadhere&theme=github-compact)
+[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Saadhere&theme=github-compact)
 ```
