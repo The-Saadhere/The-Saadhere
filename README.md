@@ -15,26 +15,16 @@ Currently focused on:
 
 ## Tech Stack
 
+## 🚀 Tech Stack
+
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vercel
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
 
 ## Projects
 
