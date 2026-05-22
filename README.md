@@ -1,19 +1,10 @@
 # Saad Kamal Shaikh
 
-Full Stack Developer focused on building scalable and modern web applications using React, Next.js, Node.js, Express, and TypeScript.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=38BDF8&lines=Full+Stack+Developer;Next.js+Developer;React+%2B+TypeScript)](https://git.io/typing-svg)
 
-## About Me
+Full Stack Developer building fast, scalable, and modern web applications with Next.js, TypeScript, and Node.js.
 
-I started web development in 2025 and have been consistently building projects and improving my skills in frontend and backend development.
-
-Currently focused on:
-- Full Stack Web Development
-- TypeScript
-- Scalable Backend Architecture
-- Modern UI Development
-- Freelance Development
-
-## Tech Stack
+---
 
 ## 🚀 Tech Stack
 
@@ -21,39 +12,62 @@ Currently focused on:
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ### Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
 
-## Projects
+---
+
+## 📌 Featured Projects
 
 ### Ecommerce Application
-Built a full stack ecommerce application with cart management, product handling, and responsive UI.
+Full-stack ecommerce platform with authentication, cart management, product handling, and responsive UI built using Next.js and MongoDB.
 
 ### URL Shortener
-Developed a URL shortener with click tracking and analytics functionality.
+URL shortening platform with analytics and click tracking using Node.js and MongoDB.
 
 ### Portfolio Website
 Modern developer portfolio showcasing projects, skills, and services.
 
-Portfolio:
+🔗 Portfolio:  
 https://saad-portfolio-gamma.vercel.app/
 
-## Contact
+---
 
-Email:
+## 📊 GitHub Stats
+
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-Saadhere&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced TypeScript
+- Scalable Backend Architecture
+- System Design
+- Performance Optimization
+
+---
+
+## 📫 Contact
+
+📧 Email:  
 saadkamaldev@gmail.com
 
-LinkedIn:
-www.linkedin.com/in/the-saadhere
+💼 LinkedIn:  
+https://www.linkedin.com/in/the-saadhere
 
-Portfolio:
+🌐 Portfolio:  
 https://saad-portfolio-gamma.vercel.app/
 
-## Goals
+---
 
-- Build high quality production-ready applications
+## 🎯 Goals
+
+- Build production-ready applications
 - Grow as a freelance developer
-- Contribute to open source projects
-- Learn advanced system design and backend development
+- Contribute to open source
+- Improve backend and system design skills
