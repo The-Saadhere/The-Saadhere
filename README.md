@@ -39,8 +39,7 @@ https://saad-portfolio-gamma.vercel.app/
 
 ![GitHub Stats](https://github-readme-stats-six-gold-61.vercel.app/api?username=The-Saadhere&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-six-gold-61.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=tokyonight)
 ---
 
 ## 🌱 Currently Learning
