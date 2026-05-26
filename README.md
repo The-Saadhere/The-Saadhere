@@ -37,7 +37,7 @@ https://saad-portfolio-gamma.vercel.app/
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=The-Saadhere&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-six-gold-61.vercel.app/api?username=The-Saadhere&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=tokyonight)
 
