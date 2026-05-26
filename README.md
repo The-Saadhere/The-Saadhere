@@ -16,65 +16,52 @@ Open to freelance projects and open source collaboration.
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🔭 Building production-grade full stack apps with **Next.js + TypeScript + MongoDB**
-- 🌱 Currently deepening skills in **System Design**, **Scalable Backend Architecture**, and **Advanced TypeScript**
-- 💡 Interested in **freelancing**, **open source**, and **performance-first development**
-- 📍 Based in Karachi, Pakistan
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
-
-### Backend & Database
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb)
-
-### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
+- Building production-grade full stack apps with **Next.js**, **TypeScript**, and **MongoDB**
+- Currently deepening skills in system design, scalable backend architecture, and advanced TypeScript
+- Interested in freelancing, open source, and performance-first development
+- Based in Karachi, Pakistan
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### 🛒 [Ecommerce Application](https://github.com/The-Saadhere)
-> Full-stack ecommerce platform built with **Next.js**, **TypeScript**, and **MongoDB**
+**Frontend**  
+![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
-- 🔐 JWT-based authentication & session management
-- 🛍️ Cart management, product CRUD, order handling
-- 📱 Fully responsive UI with Tailwind CSS
-- 🚀 Deployed on Vercel
+**Backend & Database**  
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+
+**Tools**  
+![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
+
+---
+
+## Projects
+
+### [Ecommerce Application](https://github.com/The-Saadhere)
+Full-stack ecommerce platform built with **Next.js**, **TypeScript**, and **MongoDB**. Includes JWT authentication, cart management, product CRUD, and a fully responsive Tailwind UI. Deployed on Vercel.
 
 `Next.js` `TypeScript` `MongoDB` `Tailwind CSS` `Node.js`
 
 ---
 
-### 🔗 [URL Shortener](https://github.com/The-Saadhere)
-> Link shortening service with built-in analytics dashboard
-
-- 📊 Click tracking and analytics per link
-- 🔑 Custom alias support
-- ⚡ Built on **Node.js**, **Express**, and **MongoDB**
+### [URL Shortener](https://github.com/The-Saadhere)
+Link shortening service with click tracking and per-link analytics. Built with **Node.js**, **Express**, and **MongoDB**.
 
 `Node.js` `Express` `MongoDB`
 
 ---
 
-### 🌐 [Portfolio Website](https://saad-portfolio-gamma.vercel.app/)
-> Personal developer portfolio showcasing projects, skills, and services
-
-- ✨ Modern design with smooth animations
-- 📩 Contact form integration
-- 🚀 Deployed on Vercel
+### [Portfolio](https://saad-portfolio-gamma.vercel.app/)
+Personal developer portfolio with project showcases, skills, and a contact form.
 
 `Next.js` `Tailwind CSS` `Vercel`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -88,31 +75,17 @@ Open to freelance projects and open source collaboration.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 | Topic | Focus |
 |---|---|
-| 🔷 Advanced TypeScript | Generics, utility types, strict patterns |
-| 🏗️ Scalable Backend Architecture | Microservices, queues, caching |
-| 🧠 System Design | Load balancers, DB sharding, CDN |
-| ⚡ Performance Optimization | Core Web Vitals, SSR/ISR, lazy loading |
+| Advanced TypeScript | Generics, utility types, strict patterns |
+| Scalable Backend Architecture | Microservices, queues, caching |
+| System Design | Load balancers, DB sharding, CDN |
+| Performance Optimization | Core Web Vitals, SSR/ISR, lazy loading |
 
 ---
 
-## 📫 Get In Touch
+## Contact
 
-<div align="center">
-
-| Channel | Link |
-|---|---|
-| 📧 Email | [saadkamaldev@gmail.com](mailto:saadkamaldev@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/the-saadhere](https://www.linkedin.com/in/the-saadhere) |
-| 🌐 Portfolio | [saad-portfolio-gamma.vercel.app](https://saad-portfolio-gamma.vercel.app/) |
-
-</div>
-
----
-
-<div align="center">
-  <i>Open to freelance work and collaboration — feel free to reach out!</i>
-</div>
+[saadkamaldev@gmail.com](mailto:saadkamaldev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/the-saadhere) · [Portfolio](https://saad-portfolio-gamma.vercel.app/)
