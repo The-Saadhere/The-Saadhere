@@ -31,7 +31,7 @@ Open to freelance projects and open source collaboration.
 ![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
 
 **Backend & Database**  
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb)
+![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)
 
 **Tools**  
 ![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
