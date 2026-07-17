@@ -48,9 +48,9 @@ Full-stack ecommerce platform built with **Next.js**, **TypeScript**, and **Mong
 ---
 
 ### [URL Shortener](https://github.com/The-Saadhere)
-Link shortening service with click tracking and per-link analytics. Built with **Node.js**, **Express**, and **MongoDB**.
+Link shortening service with click tracking and per-link analytics. Built with **Node.js**, **Next.js**, and **MongoDB**.
 
-`Node.js` `Express` `MongoDB`
+`Node.js` `Next.js` `MongoDB`
 
 ---
 
