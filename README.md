@@ -7,7 +7,7 @@
 Full Stack Developer crafting fast, scalable web apps with **Next.js**, **TypeScript**, and **Node.js**.  
 Open to freelance projects and open source collaboration.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saad--portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://saad-portfolio-gamma.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saad--portfolio-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://saadkamal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--saadhere-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-saadhere)
 [![Email](https://img.shields.io/badge/Email-saadkamaldev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saadkamaldev@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=The-Saadhere&style=flat-square&color=38BDF8&label=Profile+Views)](https://github.com/The-Saadhere)
@@ -88,4 +88,4 @@ Personal developer portfolio with project showcases, skills, and a contact form.
 
 ## Contact
 
-[saadkamaldev@gmail.com](mailto:saadkamaldev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/the-saadhere) · [Portfolio](https://saad-portfolio-gamma.vercel.app/)
+[saadkamaldev@gmail.com](mailto:saadkamaldev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/the-saadhere) · [Portfolio](https://saadkamal.vercel.app/)
