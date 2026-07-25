@@ -28,14 +28,20 @@ Open to freelance projects and open source collaboration.
 
 ## Tech Stack
 
-**Frontend**
-![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
-
-**Backend & Database**
-![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql)
-
-**Tools**
-![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /></td>
+</tr>
+<tr>
+<td><strong>Backend & Database</strong></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" /></td>
+</tr>
+<tr>
+<td><strong>Tools</strong></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /></td>
+</tr>
+</table>
 
 ---
 
