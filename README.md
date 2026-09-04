@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Next.js+%2B+TypeScript;Building+for+the+web)](https://git.io/typing-svg)
 
 Full Stack Developer crafting fast, scalable web apps with **Next.js**, **TypeScript**, and **Node.js**.
-Open to freelance projects and open source collaboration.
+Currently a college student, learning in public and building on the side.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saadkamal.vercel.app-38BDF8?style=flat-square&logo=vercel&logoColor=white)](https://saadkamal.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-the--saadhere-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/the-saadhere)
@@ -18,10 +18,12 @@ Open to freelance projects and open source collaboration.
 
 ## About
 
+- 🎓 Currently a **college student** — this is my main focus right now, so progress on side projects is steady but slower
 - Building full-stack web apps with **Next.js**, **TypeScript**, and **MongoDB**
 - Delivered client projects end-to-end — planning, architecture, and deployment
-- Currently deepening skills in system design, scalable backend architecture, and advanced TypeScript
-- Interested in freelancing, open source, and performance-first development
+- Currently sharpening **Advanced React** and **Next.js** (Server Components, App Router, performance patterns)
+- Next up on my roadmap: **AI-powered projects** — LLM integrations and AI-assisted features
+- Long-term interests: **SaaS products**, **AI-powered apps**, **Generative AI**, and **DevOps** (Docker, containerization)
 - Based in Karachi, Pakistan
 
 ---
@@ -39,7 +41,7 @@ Open to freelance projects and open source collaboration.
 </tr>
 <tr>
 <td><strong>Tools</strong></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" /></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,docker" /></td>
 </tr>
 </table>
 
@@ -49,24 +51,28 @@ Open to freelance projects and open source collaboration.
 
 ### [Fashion Stylized](https://github.com/The-Saadhere/Fashion-Stylized)
 Full-stack eCommerce platform built for a client over 2 months — covering requirements, UI/UX planning, and architecture through to launch. Features secure authentication (NextAuth + Google Sign-In), OTP verification via Resend, real-time inventory management, and an admin dashboard for products, orders, and users.
+
 `Next.js` `TypeScript` `Zustand` `Zod` `MongoDB` `NextAuth` `Tailwind CSS`
 
 ---
 
 ### [MiniLink](https://github.com/The-Saadhere/MiniLink)
 Link shortening service with click tracking and per-link analytics. Built with **Node.js**, **Next.js**, and **MongoDB**.
+
 `Node.js` `Next.js` `MongoDB`
 
 ---
 
 ### [Vido](https://github.com/The-Saadhere/Vido)
 Video streaming platform with secure authentication, video uploads, and automatic thumbnail generation.
+
 `Next.js` `Node.js` `MongoDB`
 
 ---
 
 ### [Portfolio](https://saadkamal.vercel.app/)
 Personal developer portfolio with project showcases, skills, and a contact form.
+
 `Next.js` `Tailwind CSS` `Vercel`
 
 ---
@@ -77,6 +83,7 @@ Personal developer portfolio with project showcases, skills, and a contact form.
 
 ![GitHub Stats](https://github-readme-stats-six-gold-61.vercel.app/api?username=The-Saadhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-six-gold-61.vercel.app/api/top-langs/?username=The-Saadhere&layout=compact&theme=tokyonight&hide_border=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=The-Saadhere&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -85,13 +92,17 @@ Personal developer portfolio with project showcases, skills, and a contact form.
 
 ## Currently Learning
 
-| Topic | Focus |
-|---|---|
-| Advanced TypeScript | Generics, utility types, strict patterns |
-| Scalable Backend Architecture | Microservices, queues, caching |
-| System Design | Load balancers, DB sharding, CDN |
-| Performance Optimization | Core Web Vitals, SSR/ISR, lazy loading |
-| AI-Powered Web Apps | LLM integrations, AI-assisted features in Next.js apps |
+| Topic | Focus | Status |
+|---|---|---|
+| Advanced React | Hooks patterns, performance, component architecture | 🔵 In progress |
+| Advanced Next.js | App Router, Server Components, ISR/SSR | 🔵 In progress |
+| AI-Powered Web Apps | LLM integrations, AI-assisted features in Next.js apps | ⏳ Up next |
+| Generative AI | Prompting, RAG basics, AI product building | ⏳ Up next |
+| DevOps | Docker, containerization, deployment workflows | ⏳ Up next |
+| System Design | Load balancers, DB sharding, CDN | 📌 Longer-term |
+| Scalable Backend Architecture | Microservices, queues, caching | 📌 Longer-term |
+
+> Currently balancing college as my main priority, so I'm moving through this list steadily rather than fast — but SaaS, AI-powered products, and Gen AI are where I'm headed.
 
 ---
 
