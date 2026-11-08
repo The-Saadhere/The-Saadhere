@@ -70,13 +70,6 @@ Video streaming platform with secure authentication, video uploads, and automati
 
 ---
 
-### [Portfolio](https://saadkamal.vercel.app/)
-Personal developer portfolio with project showcases, skills, and a contact form.
-
-`Next.js` `Tailwind CSS` `Vercel`
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -100,7 +93,6 @@ Personal developer portfolio with project showcases, skills, and a contact form.
 | Generative AI | Prompting, RAG basics, AI product building | ⏳ Up next |
 | DevOps | Docker, containerization, deployment workflows | ⏳ Up next |
 | System Design | Load balancers, DB sharding, CDN | 📌 Longer-term |
-| Scalable Backend Architecture | Microservices, queues, caching | 📌 Longer-term |
 
 > Currently balancing college as my main priority, so I'm moving through this list steadily rather than fast — but SaaS, AI-powered products, and Gen AI are where I'm headed.
 
