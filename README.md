@@ -94,6 +94,27 @@ Video streaming platform with secure authentication, video uploads, and automati
 | DevOps | Docker, containerization, deployment workflows | ⏳ Up next |
 | System Design | Load balancers, DB sharding, CDN | 📌 Longer-term |
 
+```mermaid
+flowchart LR
+    A["Full Stack Foundations<br/>Next.js · TypeScript · MongoDB"] --> B["Advanced React<br/>Hooks, performance"]
+    B --> C["Advanced Next.js<br/>App Router, RSC, ISR/SSR"]
+    C --> D["AI-Powered Web Apps<br/>LLM integrations"]
+    D --> E["Generative AI<br/>Prompting, RAG"]
+    C --> F["DevOps<br/>Docker, deployments"]
+    E --> G["SaaS Products"]
+    F --> G
+    F --> H["System Design"]
+
+    style A fill:#0ea5e9,stroke:#0369a1,color:#fff
+    style B fill:#38bdf8,stroke:#0369a1,color:#000
+    style C fill:#38bdf8,stroke:#0369a1,color:#000
+    style D fill:#64748b,stroke:#334155,color:#fff
+    style E fill:#64748b,stroke:#334155,color:#fff
+    style F fill:#64748b,stroke:#334155,color:#fff
+    style G fill:#22c55e,stroke:#15803d,color:#000
+    style H fill:#64748b,stroke:#334155,color:#fff
+```
+
 > Currently balancing college as my main priority, so I'm moving through this list steadily rather than fast — but SaaS, AI-powered products, and Gen AI are where I'm headed.
 
 ---
